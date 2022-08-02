@@ -1,2 +1,2 @@
-# Hayvanat-Bah-esi-Y-netimi
+# Hayvanat-Bahcesi-Yonetimi
 Hayvanat Bahçesi Yönetimi
